@@ -1,6 +1,4 @@
 // (C) 2007-2018 GoodData Corporation
-import Visualization from './Visualization';
-
 import TableTransformation from './table/TableTransformation';
 
 import ResponsiveTable from './table/ResponsiveTable';
@@ -16,8 +14,6 @@ import {
 } from './proptypes/execution';
 
 export {
-    Visualization,
-
     TableTransformation,
 
     ResponsiveTable,
