@@ -1,3 +1,5 @@
+# This repository has been deprecated and all code has been moved to [GoodData React Components](https://github.com/gooddata/gooddata-react-components)
+
 # Indigo Visualizations in React
 > Visualization library for GoodData visualizations built using React.js and HighCharts
 
